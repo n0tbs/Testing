@@ -4,104 +4,104 @@
         "Binary": " anonine-4.17.exe",
         "Binary md5": "25000acf3d188db782df3bc245a804bb",
         "Binary SHA1": "bdd295ba9d22eeabb7c7c0ff61e93d7873a9a4d4",
-        "Binary SHA256\r": "079fb3e0ef97a86a9299a78249981211b067f9f1d99ad3fe60a759b39a77d017\r"
+        "Binary SHA256": "079fb3e0ef97a86a9299a78249981211b067f9f1d99ad3fe60a759b39a77d017"
       },
       {
         "Software": "AnonymousVPN",
         "Binary": "AnonymousVPN.exe",
         "Binary md5": "8c906204e4f07b17b8bb077e83bbe4f7",
         "Binary SHA1": "4b29cab592c00c8c9eb228141b7feff645a24bf6",
-        "Binary SHA256\r": "9b9663271c6bcc2404cf16cd39da8d05780d50d05b86969f8272573a3c78cff1\r"
+        "Binary SHA256": "9b9663271c6bcc2404cf16cd39da8d05780d50d05b86969f8272573a3c78cff1"
       },
       {
         "Software": "AzireVPN",
         "Binary": "azirevpn.exe",
         "Binary md5": "f91cceb5c6083febe314f13956558b4f",
         "Binary SHA1": "6b8c0922548b6c81a53041fb35c4cc28145b6984",
-        "Binary SHA256\r": "37061e5d8648a27dc321b1064f62540e5e0963be7655fe347f6aec2fa3c0c800\r"
+        "Binary SHA256": "37061e5d8648a27dc321b1064f62540e5e0963be7655fe347f6aec2fa3c0c800"
       },
       {
         "Software": "BolehVPN",
         "Binary": "BolehVPN.exe",
         "Binary md5": "8c75c63feae701980f34a4c41eb3c2d4",
         "Binary SHA1": "7a03e9a998cfe909e86b6f29f85028e33b794196",
-        "Binary SHA256\r": "d7557344638b9015fc0c1017fdedd1112c9488d2b4d6e0dcdad254abb7faf0d8\r"
+        "Binary SHA256": "d7557344638b9015fc0c1017fdedd1112c9488d2b4d6e0dcdad254abb7faf0d8"
       },
       {
         "Software": "CactusVPN",
         "Binary": "CactusVPN.exe",
         "Binary md5": "1800850d46abf7cb95ee8409aa3a034e",
         "Binary SHA1": "840052cd83651c6a2be72efa9085fba73bc8057e",
-        "Binary SHA256\r": "dd45aacc239c58e2fd15bafee3cb6bf8b7521640d3c30d5f114a6b5d921b6436\r"
+        "Binary SHA256": "dd45aacc239c58e2fd15bafee3cb6bf8b7521640d3c30d5f114a6b5d921b6436"
       },
       {
         "Software": "ExpressVPN",
         "Binary": "ExpressVPN.exe",
         "Binary md5": "7d2ffade40232e2b06cb703c344c99ec",
         "Binary SHA1": "696232733903ecc017be64786630c4a1ce633a56",
-        "Binary SHA256\r": "63a08be956c1c2257a5b3fb406c6fc0b9f4037cb14eb3b53aaf24e85b262e8fa\r"
+        "Binary SHA256": "63a08be956c1c2257a5b3fb406c6fc0b9f4037cb14eb3b53aaf24e85b262e8fa"
       },
       {
         "Software": "Mullvad",
         "Binary": "Mullvad VPN.exe",
         "Binary md5": "a3a0baf421172138f27107ecf121bdc8",
         "Binary SHA1": "efe5dcb77970aef92be54b8e93f95b731a381b98",
-        "Binary SHA256\r": "2c0bf86a193b4a65dcc373e4c5d76b9dd8f6f21f55045fdfcdbc2cebc8d54ea0\r"
+        "Binary SHA256": "2c0bf86a193b4a65dcc373e4c5d76b9dd8f6f21f55045fdfcdbc2cebc8d54ea0"
       },
       {
         "Software": "NordVPN",
         "Binary": "NordVPN.exe",
         "Binary md5": "",
         "Binary SHA1": "",
-        "Binary SHA256\r": "\r"
+        "Binary SHA256": ""
       },
       {
         "Software": "OpenVPNConnect",
         "Binary": "OpenVPNconnect.exe",
         "Binary md5": "a352dff93578b9912d06ca7a819190be",
         "Binary SHA1": "afeca107160bc7d9bbbea2fa46fc37d0182ff657",
-        "Binary SHA256\r": "2d6c0413a287b78071c05ca435e1a72102b9c8dd12db3bd0f24dad6c2c0011ff\r"
+        "Binary SHA256": "2d6c0413a287b78071c05ca435e1a72102b9c8dd12db3bd0f24dad6c2c0011ff"
       },
       {
         "Software": "OpenVPN",
         "Binary": "openvpn.exe",
         "Binary md5": "cf4a54c0d3a6ce8acb621c464eba1624",
         "Binary SHA1": "149ea41b75ff35c4a24ac866f800ad78741f7f10",
-        "Binary SHA256\r": "3bc4035237391d7709e03af3adab7d406c96da401436163c660421d396634a4d\r"
+        "Binary SHA256": "3bc4035237391d7709e03af3adab7d406c96da401436163c660421d396634a4d"
       },
       {
         "Software": "PrivateVPN",
         "Binary": "PrivateVpn.exe",
         "Binary md5": "4e824039c0e6aeb5411dc75582dbf584",
         "Binary SHA1": "0dd951d7a20c446e754e125932ef229f6fc563b1",
-        "Binary SHA256\r": "a712ff17383d02d2e3eab73b7618c550c42fe0014c2d9723cdbd6f9186e310fd\r"
+        "Binary SHA256": "a712ff17383d02d2e3eab73b7618c550c42fe0014c2d9723cdbd6f9186e310fd"
       },
       {
         "Software": "ProtonVPN",
         "Binary": "ProtonVPN.Launcher.exe",
         "Binary md5": "bd45bba765fe0b500c7dac2f52683584",
         "Binary SHA1": "77fac824ea19a646957cc2912ab009c3397d9cb5",
-        "Binary SHA256\r": "96db5684d45d50de02ea3ad74d3bf959ccdd0cf68b25b76ba7f79b45fcbfe2ed\r"
+        "Binary SHA256": "96db5684d45d50de02ea3ad74d3bf959ccdd0cf68b25b76ba7f79b45fcbfe2ed"
       },
       {
         "Software": "Psiphon",
         "Binary": "psiphon3",
         "Binary md5": "fc08a13ce32ce00e171de45c15769ba5",
         "Binary SHA1": "43c6800db491734b720dccc3cd181c0e9e72f42c",
-        "Binary SHA256\r": "bba27f00d0c4e261c7c8515f525260ff6315a7418f6a193f8d80a9e991cf455c\r"
+        "Binary SHA256": "bba27f00d0c4e261c7c8515f525260ff6315a7418f6a193f8d80a9e991cf455c"
       },
       {
         "Software": "UltraSurf",
         "Binary": "u.exe",
         "Binary md5": "311d64e4892f75019ee257b8377c723e",
         "Binary SHA1": "694c1c80280a031095cc2fa567526e88fd800bf4",
-        "Binary SHA256\r": "168e625c7eb51720f5ce1922aec6ad316b3aaca838bd864ee2bcdbd9b66171d0\r"
+        "Binary SHA256": "168e625c7eb51720f5ce1922aec6ad316b3aaca838bd864ee2bcdbd9b66171d0"
       },
       {
         "Software": "Surfshark",
         "Binary": "Surfshark.exe",
         "Binary md5": "591e35308e04ae587f97af63d076babe",
         "Binary SHA1": "dc22eb851aa3fb2352d5b5d5cb8261a7c1a8d32f",
-        "Binary SHA256\r": "7af1ed5540fba234e70aa12a82a8694fb494ed14d3a04ae29e687492067dd323"
+        "Binary SHA256": "7af1ed5540fba234e70aa12a82a8694fb494ed14d3a04ae29e687492067dd323"
       }
     ]
