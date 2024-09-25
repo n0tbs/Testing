@@ -1,6 +1,4 @@
-{
-  "VPNS": {
-    "Row": [
+[
       {
         "Software": "Anonine",
         "Binary": " anonine-4.17.exe",
@@ -107,5 +105,3 @@
         "Binary SHA256\r": "7af1ed5540fba234e70aa12a82a8694fb494ed14d3a04ae29e687492067dd323"
       }
     ]
-  }
-}
