@@ -1,6 +1,6 @@
 {
   "VPNS": {
-    "VPN": [
+    "Row": [
       {
         "Software": "Anonine",
         "Binary": " anonine-4.17.exe",
